@@ -1,2 +1,3 @@
 # python_phonebook
-Phone book crated with python dictionary 
+This phone book was created with python dictionary. 
+Loops and if else statements were also used for selection purposes.
