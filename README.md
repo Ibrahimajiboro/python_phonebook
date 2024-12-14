@@ -1,4 +1,4 @@
-# Contact Management System
+# Control Management System
 
 A simple command-line interface (CLI) application for managing contacts.
 
